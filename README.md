@@ -25,7 +25,7 @@ Lanxue Zha is responsible for the methodology research, the dataset reviews proc
 
 Clement Micol worked on improving the performance of the neural network models and implemented the Attention-LSTM model.
 
-(fill in here)
+Xile Zhang worked on converting the json data into csv, data processing, Exploratory Data Analysis, SVM hyperparameter tuning and visualizations of model perfomance.
 
 All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
