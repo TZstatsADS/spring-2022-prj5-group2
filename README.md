@@ -21,6 +21,8 @@ Term: Spring 2022
 
 Rhea Sablani worked on creating visualizations in the Exploratory Data Analysis and the presentation.
 
+Lanxue Zha is responsible for the methodology research, the dataset reviews processing, and implementation of SVM and LSTM. She also evaluates the performance of different models in terms of accuracy, recall, auc, etc. 
+
 (fill in here)
 
 All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
