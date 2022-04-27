@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Zhang, Xile
 
 + Project summary: This project explores features in the spoiler and non-spoiler reviews of the Goodreads dataset and evaluates SVM and LSTM predictive models by the following evaluation metrics: train time, accuracy, precision, recall, F1 score, and AUC.
-
++ Data source: [book reviews](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews?authuser=0)
 
 	
 	
